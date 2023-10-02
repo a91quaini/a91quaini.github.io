@@ -6,49 +6,61 @@ description: Here you can find a list of all courses that I have taught.
 nav: true
 ---
 
-## As instructor
+</br>
 
-#### Statistics
-Erasmus School of Economics, Bachelor. Year: 2023--2024.
+#### As instructor
 
-#### Advanced Machine Learning
-Tinbergen Institute, Master. Year: 2024.
+<span style="color:blue">**Statistics** </span> (Bachelor, Erasmus School of Economics, 2023--2024)
 
-#### Seminar in Financial Case Studies
-Erasmus School of Economics, Bachelor. Year: 2023--2024.
+<span style="color:blue">**Advanced Machine Learning** </span> (Master, Tinbergen Institute, 2024)
 
-#### Foundations of Data Science I and II
-with Fabio Trojani, Patrick Gagliardini and Elvezio Ronchetti, Collegio Carlo Alberto, Master. Year: 2022--2024.
+<span style="color:blue">**Seminar in Financial Case Studies** </span> (Master, Erasmus School of Economicsm 2023--2024)
 
-#### Convex Optimization and Machine Learning Applications
-with Sofonias A. Korsaye, Università della Svizzera Italiana, PhD. Year 2020.
+<span style="color:blue">**Foundations of Data Science I and II** </span> (Master, Collegio Carlo Alberto, 2022--2024)
 
-## As teaching assistant
+&nbsp; with Fabio Trojani, Patrick Gagliardini and Elvezio Ronchetti.
 
-#### Models and Empirical Methods for Asset Pricing
-with Fabio Trojani, Université de Genève, Master. Year 2020--2022.
+<span style="color:blue">**Convex Optimization and Machine Learning Applications** </span> (PhD, Università della Svizzera Italiana, 2020)
 
-#### Empirical Asset Pricing
-with Kenneth J. Singleton, Swiss Finance Institute, PhD. Year: 2021.
+&nbsp; with Sofonias A. Korsaye.
 
-#### Machine Learning in Asset Pricing
-with Dacheng Xiu, Swiss Finance Institute, PhD. Year: 2021.
+</br>
 
-#### Data Science and Optimization Methods for Empirical Finance
-with Fabio Trojani, Università della Svizzera Italiana, PhD. Year 2020--2021.
+#### As teaching assistant
 
-#### Topics in Financial Econometrics with R
-with Fabio Trojani, Università Bocconi, Master. Year 2017--2019.
+<span style="color:blue">**Models and Empirical Methods for Asset Pricing** </span> (Master, Université de Genève, 2020--2022)
 
-#### Continuous Time Asset Pricing
-with Fabio Trojani, Université de Genève, PhD. Year 2017--2019.
+&nbsp; with Fabio Trojani.
 
-#### Discrete Time Asset Pricing
-with Fabio Trojani, Université de Genève, Master. Year: 2015--2019.
+<span style="color:blue">**Empirical Asset Pricing** </span> (PhD, Swiss Finance Institute, 2021)
 
-#### Calculus 
-with Roberto Ferretti, Università della Svizzera Italiana, Bachelor. Year 2011--2013.
+&nbsp; with Kenneth J. Singleton.
 
-#### Linear Algebra 
-with Roberto Ferretti, Università della Svizzera Italiana, Bachelor. Year 2011--2013.
+<span style="color:blue">**Machine Learning in Asset Pricing** </span> (PhD, Swiss Finance Institute, 2021)
+
+&nbsp; with Dacheng Xiu.
+
+<span style="color:blue">**Data Science and Optimization Methods for Empirical Finance** </span> (PhD, Università della Svizzera Italiana, 2020--2021)
+
+&nbsp; with Fabio Trojani.
+
+<span style="color:blue">**Topics in Financial Econometrics with R** </span> (Master, Università Bocconi, 2017--2019)
+
+&nbsp; with Fabio Trojani.
+
+<span style="color:blue">**Continuous Time Asset Pricing** </span> (PhD, Université de Genève, 2017--2019)
+
+&nbsp; with Fabio Trojani.
+
+<span style="color:blue">**Discrete Time Asset Pricing** </span> (Master, Université de Genève, 2015--2019)
+
+&nbsp; with Fabio Trojani.
+
+<span style="color:blue">**Calculus** </span> (Bachelor, Università della Svizzera Italiana, 2011--2013)
+
+&nbsp; with Roberto Ferretti.
+
+<span style="color:blue">**Linear Algebra** </span> (Bachelor, Università della Svizzera Italiana, 2011--2013)
+
+&nbsp; with Roberto Ferretti.
 
