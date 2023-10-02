@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Website under construction**
-
 I am an assistant professor in the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at the 
 Erasmus School of Economics, Erasmus University of Rotterdam. 
 
