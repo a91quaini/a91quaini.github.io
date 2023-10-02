@@ -6,7 +6,7 @@ description: Here you can find a list of all courses that I have taught.
 
 <br>
 
-#### As instructor
+## As instructor
 
 <span style="color:blue">**Statistics** </span> (Bachelor, Erasmus School of Economics, 2023--2024)
 
@@ -24,7 +24,7 @@ description: Here you can find a list of all courses that I have taught.
 
 <br>
 
-#### As teaching assistant
+## As teaching assistant
 
 <span style="color:blue">**Models and Empirical Methods for Asset Pricing** </span> (Master, Université de Genève, 2020--2022)
 
