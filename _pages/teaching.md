@@ -1,12 +1,10 @@
 ---
-layout: page
 permalink: /teaching/
 title: Teaching
 description: Here you can find a list of all courses that I have taught.
-nav: true
 ---
 
-</br>
+<br>
 
 #### As instructor
 
@@ -24,7 +22,7 @@ nav: true
 
 &nbsp; with Sofonias A. Korsaye.
 
-</br>
+<br>
 
 #### As teaching assistant
 
