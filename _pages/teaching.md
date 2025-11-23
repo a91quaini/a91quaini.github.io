@@ -8,11 +8,15 @@ description: Here you can find a list of all courses that I have taught.
 
 ## As instructor
 
-<span style="color:blue">**Statistics** </span> (Bachelor, Erasmus School of Economics, 2023--2024)
+<span style="color:blue">**Statistics** </span> (Bachelor, Erasmus School of Economics, 2023--2025)
 
-<span style="color:blue">**Advanced Machine Learning** </span> (Master, Tinbergen Institute, 2024)
+<span style="color:blue">**Advanced Machine Learning** </span> (Master, Tinbergen Institute, 2024--2026)
 
-<span style="color:blue">**Seminar in Financial Case Studies** </span> (Master, Erasmus School of Economicsm 2023--2024)
+<span style="color:blue">**Seminar in Financial Case Studies** </span> (Master, Erasmus School of Economicsm 2023--2026)
+
+<span style="color:blue">**Big Data AI and Machine Learning** </span> (Master, Collegio Carlo Alberto, 2025--2026)
+
+&nbsp; with Fabio Trojani, Patrick Gagliardini and Elvezio Ronchetti.
 
 <span style="color:blue">**Foundations of Data Science I and II** </span> (Master, Collegio Carlo Alberto, 2022--2024)
 
