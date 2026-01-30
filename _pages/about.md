@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at the 
+I am a tenured assistant professor in the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at the 
 Erasmus School of Economics, Erasmus University of Rotterdam. 
 
 My research lies at the intersection of Asset Pricing and Statistical Learning, with an emphasis on the development of the theory of penalized estimators and their applications to problems in financial econometrics. My teaching spans topics in Statistics, Financial Econometrics, Machine Learning and Optimization. 
