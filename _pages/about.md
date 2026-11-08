@@ -11,8 +11,9 @@ redirect_from:
   <div>
     <h1 id="profile-name">Alberto Quaini</h1>
     <p class="position"><strong>Assistant Professor</strong><br>Erasmus School of Economics<br>Erasmus University Rotterdam</p>
-    <p class="background">PhD in Statistics from Université de Genève, GSEM</p>
-    <p class="background">Postdoctoral researcher at Columbia University, Statistics Department</p>
+    <p class="background">previously:</p>
+    <p class="background">PhD in Statistics, Université de Genève, GSEM</p>
+    <p class="background">Postdoc in Statistics, Columbia University, Statistics Department</p>
     <div class="profile-links" aria-label="Academic profiles">
       <a href="https://github.com/a91quaini">GitHub</a>
       <a href="https://scholar.google.com/citations?user=80CfP6AAAAAJ&amp;hl=en">Google Scholar</a>
