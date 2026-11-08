@@ -1,20 +1,25 @@
 ---
+layout: clean
 permalink: /
-title: "About"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+description: "Alberto Quaini, Tenured Assistant Professor at Erasmus School of Economics, Erasmus University Rotterdam."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a tenured assistant professor in the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at the 
-Erasmus School of Economics, Erasmus University of Rotterdam. 
-
-My research lies at the intersection of Asset Pricing and Statistical Learning, with an emphasis on the development of the theory of penalized estimators and their applications to problems in financial econometrics. My teaching spans topics in Statistics, Financial Econometrics, Machine Learning and Optimization. 
-
-Previously, I was a postdoctoral research scientist at the [Statistics Department](http://stat.columbia.edu/) of Columbia University, working with [Ming Yuan](http://www.columbia.edu/~my2550/). I received my PhD in Statistics from [GSEM](https://www.unige.ch/gsem/en/), Université de Genève, advised by [Fabio Trojani](https://www.fabiotrojani.com/en/). 
-
-Please feel free to reach out if we may share research interests! You can find me on [Github](https://github.com/a91quaini) and [Google Scholar](https://scholar.google.com/citations?user=80CfP6AAAAAJ&hl=en) or email me at quaini [at] ese [dot] eur [dot] nl.
-
-___
+<section class="profile" aria-labelledby="profile-name">
+  <div>
+    <h1 id="profile-name">Alberto Quaini</h1>
+    <p class="position"><strong>Tenured Assistant Professor</strong><br>Erasmus School of Economics<br>Erasmus University Rotterdam</p>
+    <p class="background">PhD in Statistics from Université de Genève, GSEM</p>
+    <p class="background">Postdoctoral researcher at Columbia University, Statistics Department</p>
+    <div class="profile-links" aria-label="Academic profiles">
+      <a href="https://github.com/a91quaini">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=80CfP6AAAAAJ&amp;hl=en">Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-1251-0599">ORCID</a>
+    </div>
+    <p class="email">quaini[at]ese[dot]eur[dot]nl</p>
+  </div>
+  <img class="profile-photo" src="{{ '/images/AQ.jpg' | relative_url }}" alt="Alberto Quaini" width="156" height="205">
+</section>

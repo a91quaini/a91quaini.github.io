@@ -1,14 +1,7 @@
-# main links links
 main:
   - title: "Research"
-    url: https://scholar.google.com/citations?user=80CfP6AAAAAJ&hl=en
-
+    url: /research/
   - title: "Software"
-    url: /software/    
-
+    url: /software/
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /files/CV.pdf
-        
+    url: /teaching/
