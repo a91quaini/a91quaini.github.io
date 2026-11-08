@@ -1,8 +1,7 @@
 ---
 layout: clean
 permalink: /
-description: "Alberto Quaini, Tenured Assistant Professor at Erasmus School of Economics, Erasmus University Rotterdam."
-author_profile: false
+description: "Alberto Quaini, Assistant Professor at Erasmus School of Economics, Erasmus University Rotterdam."
 redirect_from:
   - /about/
   - /about.html
@@ -11,7 +10,7 @@ redirect_from:
 <section class="profile" aria-labelledby="profile-name">
   <div>
     <h1 id="profile-name">Alberto Quaini</h1>
-    <p class="position"><strong>Tenured Assistant Professor</strong><br>Erasmus School of Economics<br>Erasmus University Rotterdam</p>
+    <p class="position"><strong>Assistant Professor</strong><br>Erasmus School of Economics<br>Erasmus University Rotterdam</p>
     <p class="background">PhD in Statistics from Université de Genève, GSEM</p>
     <p class="background">Postdoctoral researcher at Columbia University, Statistics Department</p>
     <div class="profile-links" aria-label="Academic profiles">

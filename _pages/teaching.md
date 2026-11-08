@@ -3,7 +3,9 @@ layout: clean
 permalink: /teaching/
 title: Teaching
 description: "Courses taught by Alberto Quaini."
-author_profile: false
+redirect_from:
+  - /teaching.html
+  - /_pages/teaching.html
 ---
 
 <ul class="course-list">

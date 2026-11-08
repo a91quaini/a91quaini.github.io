@@ -82,8 +82,6 @@ p { margin: 0 0 18px; }
 .service { margin-top: 50px; padding-top: 4px; }
 .service ul { padding-left: 20px; }
 .conference-links { display: flex; flex-wrap: wrap; gap: 10px 24px; }
-pre { padding: 18px 22px; overflow-x: auto; background: var(--surface); border-radius: 4px; }
-code { font-size: 0.9em; }
 .site-footer { padding-block: 22px 30px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.78rem; }
 .skip-link { position: absolute; top: -100px; left: 20px; padding: 10px 16px; z-index: 10; background: var(--background); }
 .skip-link:focus { top: 12px; }

@@ -1,4 +1,9 @@
 _site/
+.bundle/
 .sass-cache/
-
-.Rproj.user
+.jekyll-cache/
+vendor/
+temp/
+.DS_Store
+.Rhistory
+.Rproj.user/
